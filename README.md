@@ -1,3 +1,6 @@
+![hotel-5-hotels-5-zpgnv](https://github.com/user-attachments/assets/aa7365e4-bf9e-4f3b-bb5b-39d23b3e41e6)
+
+
 Project Link : https://colab.research.google.com/drive/1IsGNtIl60r8oITmS-0JHMmerImAPyUO7?usp=sharing
 
 Dashboard Link: https://tinyurl.com/5n7syvsw
